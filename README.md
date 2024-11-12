@@ -1,4 +1,4 @@
-# MLLM-applied-to-autonomous-driving-across-various-weather-conditions
+# MLLM applied to autonomous driving across various weather conditions
 
 Description:
 
