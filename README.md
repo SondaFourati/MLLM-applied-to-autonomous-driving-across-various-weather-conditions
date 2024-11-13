@@ -46,3 +46,4 @@ Use `requirements.txt` if provided, or install packages manually:
 ```bash
 pip install torch transformers opencv-python numpy pandas matplotlib 
 
+## Installation
