@@ -55,6 +55,7 @@ To run this project, you need the following dependencies and tools:
   ```
   ### 2.  CARLA Setup
   Download CARLA: Obtain the CARLA simulator from the [Carla Website](https://carla.org/) or directly from [Github](https://github.com/carla-simulator/carla)
+  and download [additionalMaps](AdditionalMaps_0.9.15.zip)
 
   ### 3. SUMO Setup
   Download and Install SUMO: Follow the instructions on the [SUMO installation guide](https://sumo.dlr.de/docs/index.html#simulation).
@@ -80,8 +81,8 @@ MLLM-Autonomous-Driving/
 │
 ├── ExampleEvaluator1.py                # New evaluation script for MLLM performance in simulations
 ├── ExampleVLMAgentCloseLoop6cam1.py     # New MLLM agent setup script using a 6-camera system
-├── ExampleVLMAgentCloseLoop6camLidarPrompt1.py # New MLLM agent setup script with LiDAR and camera data integration
-├── MPGUl6cam.py                         # New GUI script for visualizing data from a 6-camera setup
+├── ExampleVLMAgentCloseLoop6camLidarPrompt1.py # New MLLM agent setup script with LiDAR and 6-camera integration
+├── MPGUl6cam.py                         # New GUI script for visualizing simulation with a 6-camera setup
 ├── Model2.py                            # Modified model definition, requiring updates in SimModel for LimSim++ integration
 ```
 ## Acknowledgments
