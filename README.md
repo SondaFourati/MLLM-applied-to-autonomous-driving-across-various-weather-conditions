@@ -55,7 +55,7 @@ To run this project, you need the following dependencies and tools:
   ```
   ### 2.  CARLA Setup
   Download CARLA: Obtain the CARLA simulator from the [Carla Website](https://carla.org/) or directly from [Github](https://github.com/carla-simulator/carla)
-  and download [AdditionalMaps_0.9.15.zip](https://example.com/path/to/AdditionalMaps_0.9.15.zip)
+  and download [AdditionalMaps_0.9.15.zip](https://github.com/carla-simulator/carla/releases)
 
   ### 3. SUMO Setup
   Download and Install SUMO: Follow the instructions on the [SUMO installation guide](https://sumo.dlr.de/docs/index.html#simulation).
