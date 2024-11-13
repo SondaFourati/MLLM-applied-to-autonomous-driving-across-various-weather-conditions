@@ -71,4 +71,4 @@ To run this project, you need the following dependencies and tools:
   pip install -r requirements.txt
 
   ```
-### 4. Install Python Dependencies
+### 5. Project Structure
