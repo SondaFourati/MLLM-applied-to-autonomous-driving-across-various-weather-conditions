@@ -67,6 +67,7 @@ Download and Install SUMO: Follow the instructions on the SUMO installation guid
    
 With the main dependencies installed, install the required Python packages for this project:
 
+```bash
 pip install -r requirements.txt
 
 
