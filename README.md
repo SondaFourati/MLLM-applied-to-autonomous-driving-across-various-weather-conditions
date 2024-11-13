@@ -85,6 +85,54 @@ MLLM-Autonomous-Driving/
 ├── MPGUl6cam.py                         # New GUI script for visualizing simulation with a 6-camera setup
 ├── Model2.py                            # Modified model definition, requiring updates in SimModel for LimSim++ integration
 ```
+
+## Usage
+
+This section provides instructions on how to use the modified files for running simulations, evaluating models, and visualizing results.
+
+### 1. Evaluating MLLM Performance
+Use `ExampleEvaluator1.py` to evaluate the performance of the Multimodal Large Language Model (MLLM) under different simulation conditions.
+
+#### Run Evaluation Script
+```bash
+python ExampleEvaluator1.py
+```
+### 2. Running the MLLM Agent with a 6-Camera Setup
+ExampleVLMAgentCloseLoop6cam1.py configures an MLLM agent to operate using a 6-camera system for environment sensing.
+
+#### Run Agent with 6-Camera Setup
+```bash
+python ExampleVLMAgentCloseLoop6cam1.py
+```
+
+### 3. Running the MLLM Agent with Camera and LiDAR Setup
+For a setup that combines both camera and LiDAR inputs, use ExampleVLMAgentCloseLoop6camLidarPrompt1.py.
+
+#### Run Agent with Camera and LiDAR Setup
+```bash
+python ExampleVLMAgentCloseLoop6camLidarPrompt1.py
+```
+Options:
+
+--sensors: Include both 'camera' and 'lidar' for a multimodal sensor setup, providing a more comprehensive view of the environment.
+This setup is particularly useful for testing the agent's performance under low-visibility conditions.
+
+4. Visualizing 6-Camera Data with the GUI
+To monitor and visualize data from the 6-camera setup, use the MPGUl6cam.py GUI script. This graphical interface allows real-time observation of the simulation environment as perceived by the agent.
+
+Launch 6-Camera Visualization GUI
+```bash
+python MPGUl6cam.py
+```
+This will open a GUI displaying the output from each of the six cameras, enabling you to visually track the agent’s perception in real-time.
+
+5. Changing Weather Conditions in the Simulation
+This script allows you to modify the weather settings
+
+```bash
+python Model2.py --train --data-path 'data/training_data'
+```
+
 ## Acknowledgments
 
 - Special thanks to **PJLab-ADG** for developing and maintaining [LimSim++](https://github.com/PJLab-ADG/LimSim), which has been instrumental in enabling advanced simulations for this project.
