@@ -71,6 +71,18 @@ To run this project, you need the following dependencies and tools:
 
   ```
 ## Project Structure
+
+
+The following files have been modified or newly added to achieve the specific results required for this project. These files may need to be integrated into the main LimSim++ repository for broader use.
+
+```plaintext
+MLLM-Autonomous-Driving/
+│
+├── ExampleEvaluator1.py                # New evaluation script for MLLM performance in simulations
+├── ExampleVLMAgentCloseLoop6cam1.py     # New MLLM agent setup script using a 6-camera system
+├── ExampleVLMAgentCloseLoop6camLidarPrompt1.py # New MLLM agent setup script with LiDAR and camera data integration
+├── MPGUl6cam.py                         # New GUI script for visualizing data from a 6-camera setup
+├── Model2.py                            # Modified model definition, requiring updates in SimModel for LimSim++ integration
 ## Acknowledgments
 
 - Special thanks to **PJLab-ADG** for developing and maintaining [LimSim++](https://github.com/PJLab-ADG/LimSim), which has been instrumental in enabling advanced simulations for this project.
