@@ -78,7 +78,7 @@ The following files have been modified or newly added to achieve the specific re
 ```plaintext
 MLLM-Autonomous-Driving/
 │
-├── ExampleEvaluator1.py                # New evaluation script for MLLM performance in simulations
+├── ExampleEvaluator1.py                # New evaluation script to get final Score of the simulation
 ├── ExampleVLMAgentCloseLoop6cam1.py     # New MLLM agent setup script using a 6-camera system
 ├── ExampleVLMAgentCloseLoop6camLidarPrompt1.py # New MLLM agent setup script with LiDAR and 6-camera integration
 ├── MPGUl6cam.py                         # New GUI script for visualizing simulation with a 6-camera setup
