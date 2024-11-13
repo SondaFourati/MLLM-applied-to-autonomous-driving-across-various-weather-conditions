@@ -48,7 +48,9 @@ To run this project, you need the following dependencies and tools:
 Download and Install LimSim++: Follow the official instructions from the LimSim++ GitHub page.
 
 
-### Example command to install LimSim++ 
+### Example command to install LimSim++
+
+```bash
 git clone https://github.com/PJLab-ADG/LimSim.git
 cd LimSim
 
