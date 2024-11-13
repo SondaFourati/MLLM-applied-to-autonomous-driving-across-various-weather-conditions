@@ -29,7 +29,7 @@ This project explores the use of Multimodal Large Language Models (MLLMs) in aut
 ## Requirements
 
 To run this project, you need the following dependencies and tools:
-- Python 3.8+
+- Python 3.9.0 +
 - [LimSim++](https://github.com/PJLab-ADG/LimSim)
 - [CARLA Simulator](https://github.com/carla-simulator/carla)
 - [SUMO Simulator](https://www.eclipse.org/sumo/) (for additional simulation of traffic and urban mobility)
