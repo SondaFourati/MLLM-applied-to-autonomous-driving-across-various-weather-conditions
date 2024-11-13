@@ -9,8 +9,7 @@
 5. [Project Structure](#project-structure)
 6. [Usage](#usage)
 7. [Results and Performance](#results-and-performance)
-8. [Contributing](#contributing)
-9. [Acknowledgments](#acknowledgments)
+8. [Acknowledgments](#acknowledgments)
 
 
 
