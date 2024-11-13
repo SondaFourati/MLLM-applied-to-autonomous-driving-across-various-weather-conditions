@@ -50,10 +50,10 @@ Download and Install LimSim++: Follow the official instructions from the LimSim+
 
 ### Example command to install LimSim++
 
-
+```bash
 git clone https://github.com/PJLab-ADG/LimSim.git
-cd LimSim
 
+```
 
 
 ### Follow any additional build or setup instructions in LimSim's README
@@ -72,6 +72,7 @@ Download and Install SUMO: Follow the instructions on the SUMO installation guid
 With the main dependencies installed, install the required Python packages for this project:
 
 ```bash
+cd LimSim
 pip install -r requirements.txt
 
 ```
