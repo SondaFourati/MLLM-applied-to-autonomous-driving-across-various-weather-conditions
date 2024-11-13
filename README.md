@@ -40,8 +40,8 @@ To run this project, you need the following dependencies and tools:
   - `numpy`
   - `pandas`
   - `matplotlib`
-  - `scipy`
+ 
 
 Use `requirements.txt` if provided, or install packages manually:
 ```bash
-pip install torch transformers opencv-python numpy pandas matplotlib scipy
+pip install torch transformers opencv-python numpy pandas matplotlib 
