@@ -129,7 +129,7 @@ This will open a GUI displaying the output from each of the six cameras, enablin
 This script allows you to modify the weather settings
 
 ```bash
-python Model2.py --train --data-path 'data/training_data'
+python Model2.py 
 ```
 ## 7.Results and Performance
 ## 8.Acknowledgments
