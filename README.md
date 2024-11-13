@@ -58,7 +58,7 @@ git clone https://github.com/PJLab-ADG/LimSim.git
 Download CARLA: Obtain the CARLA simulator from the [Carla Website](https://carla.org/) or directly from [Github](https://github.com/carla-simulator/carla)
 
 ### 3. SUMO Setup
-Download and Install SUMO: Follow the instructions on the SUMO installation guide.
+Download and Install SUMO: Follow the instructions on the [SUMO installation guide](https://sumo.dlr.de/docs/index.html#simulation).
 
 
 
