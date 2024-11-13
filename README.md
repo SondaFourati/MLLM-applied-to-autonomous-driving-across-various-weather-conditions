@@ -43,32 +43,32 @@ To run this project, you need the following dependencies and tools:
     
  ## Installation
 
-### 1. LimSim++ Setup
+  ### 1. LimSim++ Setup
 
-Download and Install LimSim++: Follow the official instructions from [LimSim++ GitHub page](https://github.com/PJLab-ADG/LimSim).
-
-
-### Example command to install LimSim++
-
-```bash
-git clone https://github.com/PJLab-ADG/LimSim.git
-
-```
-### 2.  CARLA Setup
-Download CARLA: Obtain the CARLA simulator from the [Carla Website](https://carla.org/) or directly from [Github](https://github.com/carla-simulator/carla)
-
-### 3. SUMO Setup
-Download and Install SUMO: Follow the instructions on the [SUMO installation guide](https://sumo.dlr.de/docs/index.html#simulation).
+  Download and Install LimSim++: Follow the official instructions from [LimSim++ GitHub page](https://github.com/PJLab-ADG/LimSim).
 
 
+  ### Example command to install LimSim++
 
-### 4. Install Python Dependencies
+  ```bash
+  git clone https://github.com/PJLab-ADG/LimSim.git
+
+  ```
+  ### 2.  CARLA Setup
+  Download CARLA: Obtain the CARLA simulator from the [Carla Website](https://carla.org/) or directly from [Github](https://github.com/carla-simulator/carla)
+
+  ### 3. SUMO Setup
+  Download and Install SUMO: Follow the instructions on the [SUMO installation guide](https://sumo.dlr.de/docs/index.html#simulation).
+
+
+
+  ### 4. Install Python Dependencies
    
-With the main dependencies installed, install the required Python packages for this project:
+  With the main dependencies installed, install the required Python packages for this project:
 
-```bash
-cd LimSim
-pip install -r requirements.txt
+  ```bash
+  cd LimSim
+  pip install -r requirements.txt
 
-```
+  ```
 ### 4. Install Python Dependencies
