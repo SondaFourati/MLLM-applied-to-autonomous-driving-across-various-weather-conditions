@@ -46,9 +46,3 @@ Use `requirements.txt` if provided, or install packages manually:
 ```bash
 pip install torch transformers opencv-python numpy pandas matplotlib 
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/MLLM-Autonomous-Driving.git
-   cd MLLM-Autonomous-Driving
