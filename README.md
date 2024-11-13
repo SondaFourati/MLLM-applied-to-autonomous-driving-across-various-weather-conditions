@@ -32,7 +32,7 @@ To run this project, you need the following dependencies and tools:
 - [CARLA Simulator](https://github.com/carla-simulator/carla)
 - [SUMO Simulator](https://www.eclipse.org/sumo/) (for additional simulation of traffic and urban mobility)
 - Additional Python packages:
-  - `torch`
+  - `pytorch`
   - `transformers`
   - `opencv-python`
   - `numpy`
