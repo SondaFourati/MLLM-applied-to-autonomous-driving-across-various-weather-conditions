@@ -1,6 +1,5 @@
 # MLLM applied to autonomous driving across various weather conditions
 
-# MLLM Applied to Autonomous Driving Across Various Weather Conditions
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -14,7 +13,7 @@
 9. [License](#license)
 10. [Acknowledgments](#acknowledgments)
 
-...
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
