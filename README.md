@@ -43,7 +43,7 @@ To run this project, you need the following dependencies and tools:
     
  ## Installation
 
-1. LimSim++ Setup
+### 1. LimSim++ Setup
 
 Download and Install LimSim++: Follow the official instructions from the LimSim++ GitHub page.
 
@@ -55,7 +55,7 @@ cd LimSim
 ### Follow any additional build or setup instructions in LimSim's README
 Configure Environment Variables for LimSim++: Make sure to set up any required environment variables as outlined in the LimSim++ documentation.
 
-###2.  CARLA Setup
+### 2.  CARLA Setup
 Download CARLA: Obtain the CARLA simulator from the CARLA website or directly from GitHub.
 
 ### 3. SUMO Setup
