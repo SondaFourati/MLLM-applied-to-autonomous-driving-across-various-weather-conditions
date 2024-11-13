@@ -45,7 +45,7 @@ To run this project, you need the following dependencies and tools:
 
 ### 1. LimSim++ Setup
 
-Download and Install LimSim++: Follow the official instructions from the LimSim++ GitHub page.
+Download and Install LimSim++: Follow the official instructions from [LimSim++ GitHub page](https://github.com/PJLab-ADG/LimSim).
 
 
 ### Example command to install LimSim++
@@ -54,13 +54,8 @@ Download and Install LimSim++: Follow the official instructions from the LimSim+
 git clone https://github.com/PJLab-ADG/LimSim.git
 
 ```
-
-
-### Follow any additional build or setup instructions in LimSim's README
-Configure Environment Variables for LimSim++: Make sure to set up any required environment variables as outlined in the LimSim++ documentation.
-
 ### 2.  CARLA Setup
-Download CARLA: Obtain the CARLA simulator from the CARLA website or directly from GitHub.
+Download CARLA: Obtain the CARLA simulator from the [Carla Website](https://carla.org/) or directly from [Github](https://github.com/carla-simulator/carla)
 
 ### 3. SUMO Setup
 Download and Install SUMO: Follow the instructions on the SUMO installation guide.
