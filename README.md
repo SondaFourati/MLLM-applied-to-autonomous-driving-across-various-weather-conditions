@@ -117,7 +117,7 @@ Options:
 --sensors: Include both 'camera' and 'lidar' for a multimodal sensor setup, providing a more comprehensive view of the environment.
 This setup is particularly useful for testing the agent's performance under low-visibility conditions.
 
-### 4. Visualizing 6-Camera Data with the GUI
+### 4. Updated interface with 6 cameras
 To monitor and visualize data from the 6-camera setup, use the MPGUl6cam.py GUI script. This graphical interface allows real-time observation of the simulation environment as perceived by the agent.
 
 Launch 6-Camera Visualization GUI
