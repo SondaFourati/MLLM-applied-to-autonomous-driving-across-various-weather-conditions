@@ -43,3 +43,27 @@ To run this project, you need the following dependencies and tools:
     
  ## Installation
 
+## Installation
+
+## Installation
+
+### 1. Clone the Repository
+Clone the project repository and navigate into the project directory.
+
+```bash
+git clone https://github.com/your-username/MLLM-Autonomous-Driving.git
+cd MLLM-Autonomous-Driving
+## Installation
+
+### 1. Clone the Repository
+Clone the project repository and navigate into the project directory.
+
+```bash
+git clone https://github.com/your-username/MLLM-Autonomous-Driving.git
+cd MLLM-Autonomous-Driving
+
+Clone the project repository and navigate into the project directory.
+
+```bash
+git clone https://github.com/your-username/MLLM-Autonomous-Driving.git
+cd MLLM-Autonomous-Driving
