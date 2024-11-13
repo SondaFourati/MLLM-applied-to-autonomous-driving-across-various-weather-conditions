@@ -13,19 +13,8 @@
 9. [License](#license)
 10. [Acknowledgments](#acknowledgments)
 
-# MLLM Applied to Autonomous Driving Across Various Weather Conditions
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Project Overview](#project-overview)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Project Structure](#project-structure)
-6. [Usage](#usage)
-7. [Results and Performance](#results-and-performance)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
+
 
 
 ## Introduction
