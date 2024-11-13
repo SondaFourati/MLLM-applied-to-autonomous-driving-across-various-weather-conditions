@@ -45,14 +45,3 @@ To run this project, you need the following dependencies and tools:
 Use `requirements.txt` if provided, or install packages manually:
 ```bash
 pip install torch transformers opencv-python numpy pandas matplotlib scipy
-
-
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-- Special thanks to PJLab-ADG for LimSim++ and the CARLA team for their invaluable simulation environment.
-- Thanks to contributors and the open-source community for libraries like PyTorch and Transformers.
-
-
