@@ -82,7 +82,7 @@ MLLM-Autonomous-Driving/
 ├── ExampleVLMAgentCloseLoop6cam1.py     # New MLLM agent setup script using a 6-camera system
 ├── ExampleVLMAgentCloseLoop6camLidarPrompt1.py # New MLLM agent setup script with LiDAR and 6-camera integration
 ├── MPGUl6cam.py                         # New GUI script for visualizing simulation with a 6-camera setup
-├── Model2.py                            # Modified model definition, requiring updates in SimModel for LimSim++ integration
+├── Model2.py                            # Modified model enables selection of specific weather conditions
 ```
 
 ## 6.Usage
@@ -111,10 +111,7 @@ This configuration is especially useful for evaluating the agent’s performance
 ```bash
 python ExampleVLMAgentCloseLoop6camLidarPrompt1.py
 ```
-Under SimModel, integrate :
-```bash
-python 
-```
+Under SimModel, integrate: Model3Update.py
 
 ### 6.4. Updated interface with 6 cameras
 To monitor and visualize data from the 6-camera setup, use the MPGUl6cam.py GUI script. 
