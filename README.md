@@ -74,4 +74,5 @@ With the main dependencies installed, install the required Python packages for t
 ```bash
 pip install -r requirements.txt
 
-
+```
+### 4. Install Python Dependencies
