@@ -50,11 +50,11 @@ Download and Install LimSim++: Follow the official instructions from the LimSim+
 
 ### Example command to install LimSim++
 
-```bash
+
 git clone https://github.com/PJLab-ADG/LimSim.git
 cd LimSim
 
-```bash
+
 
 ### Follow any additional build or setup instructions in LimSim's README
 Configure Environment Variables for LimSim++: Make sure to set up any required environment variables as outlined in the LimSim++ documentation.
