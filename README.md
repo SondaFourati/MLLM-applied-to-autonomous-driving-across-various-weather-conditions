@@ -105,15 +105,20 @@ python ExampleVLMAgentCloseLoop6cam1.py
 ```
 
 ### 6.3. Running the MLLM Agent with Camera and LiDAR Setup
-For a setup that combines both camera and LiDAR inputs,providing a more comprehensive view of the environment,use ExampleVLMAgentCloseLoop6camLidarPrompt1.py.
-This setup is particularly useful for testing the agent's performance under low-visibility conditions.
+Use ExampleVLMAgentCloseLoop6camLidarPrompt1.py for a setup that integrates both camera and LiDAR inputs, offering a more comprehensive view of the environment.
+This configuration is especially useful for evaluating the agent’s performance in low-visibility conditions.
 #### Run Agent with Camera and LiDAR Setup
 ```bash
 python ExampleVLMAgentCloseLoop6camLidarPrompt1.py
 ```
+Under SimModel, integrate :
+```bash
+python 
+```
 
 ### 6.4. Updated interface with 6 cameras
-To monitor and visualize data from the 6-camera setup, use the MPGUl6cam.py GUI script. This graphical interface allows real-time observation of the simulation environment as perceived by the agent.
+To monitor and visualize data from the 6-camera setup, use the MPGUl6cam.py GUI script. 
+This graphical interface allows real-time observation of the simulation environment as perceived by the agent.
 
 Launch 6-Camera Visualization GUI
 ```bash
@@ -122,7 +127,7 @@ python MPGUl6cam.py
 This will open a GUI displaying the output from each of the six cameras, enabling you to visually track the agent’s perception in real-time.
 
 ### 6.5. Changing Weather Conditions in the Simulation
-This script allows you to modify the weather settings
+In this script, you can select specific weather conditions or customize weather settings, allowing for enhanced testing under various environmental scenarios
 
 ```bash
 python Model2.py 
