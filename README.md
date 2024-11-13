@@ -127,8 +127,7 @@ This script allows you to modify the weather settings
 ```bash
 python Model2.py 
 ```
-## 7.Results and Performance
-## 8.Acknowledgments
+## 7.Acknowledgments
 
 - Special thanks to **PJLab-ADG** for developing and maintaining [LimSim++](https://github.com/PJLab-ADG/LimSim), which has been instrumental in enabling advanced simulations for this project.
 - Thanks to the **CARLA** team for their powerful [CARLA simulator](https://carla.org/), which provided a realistic simulation environment essential for testing autonomous driving models.
