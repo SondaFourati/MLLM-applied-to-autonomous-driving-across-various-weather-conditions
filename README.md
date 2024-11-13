@@ -83,6 +83,7 @@ MLLM-Autonomous-Driving/
 ├── ExampleVLMAgentCloseLoop6camLidarPrompt1.py # New MLLM agent setup script with LiDAR and camera data integration
 ├── MPGUl6cam.py                         # New GUI script for visualizing data from a 6-camera setup
 ├── Model2.py                            # Modified model definition, requiring updates in SimModel for LimSim++ integration
+```
 ## Acknowledgments
 
 - Special thanks to **PJLab-ADG** for developing and maintaining [LimSim++](https://github.com/PJLab-ADG/LimSim), which has been instrumental in enabling advanced simulations for this project.
