@@ -105,16 +105,12 @@ python ExampleVLMAgentCloseLoop6cam1.py
 ```
 
 ### 6.3. Running the MLLM Agent with Camera and LiDAR Setup
-For a setup that combines both camera and LiDAR inputs, use ExampleVLMAgentCloseLoop6camLidarPrompt1.py.
-
+For a setup that combines both camera and LiDAR inputs,providing a more comprehensive view of the environment,use ExampleVLMAgentCloseLoop6camLidarPrompt1.py.
+This setup is particularly useful for testing the agent's performance under low-visibility conditions.
 #### Run Agent with Camera and LiDAR Setup
 ```bash
 python ExampleVLMAgentCloseLoop6camLidarPrompt1.py
 ```
-Options:
-
---sensors: Include both 'camera' and 'lidar' for a multimodal sensor setup, providing a more comprehensive view of the environment.
-This setup is particularly useful for testing the agent's performance under low-visibility conditions.
 
 ### 6.4. Updated interface with 6 cameras
 To monitor and visualize data from the 6-camera setup, use the MPGUl6cam.py GUI script. This graphical interface allows real-time observation of the simulation environment as perceived by the agent.
