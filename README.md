@@ -10,8 +10,7 @@
 6. [Usage](#usage)
 7. [Results and Performance](#results-and-performance)
 8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
+9. [Acknowledgments](#acknowledgments)
 
 
 
@@ -72,3 +71,8 @@ To run this project, you need the following dependencies and tools:
 
   ```
 ## Project Structure
+## Acknowledgments
+
+- Special thanks to **PJLab-ADG** for developing and maintaining [LimSim++](https://github.com/PJLab-ADG/LimSim), which has been instrumental in enabling advanced simulations for this project.
+- Thanks to the **CARLA** team for their powerful [CARLA simulator](https://carla.org/), which provided a realistic simulation environment essential for testing autonomous driving models.
+- Appreciation to the contributors of **SUMO** ([Simulation of Urban MObility](https://sumo.dlr.de/docs/)) for their valuable open-source tool that supports traffic simulation.
