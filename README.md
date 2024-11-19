@@ -145,6 +145,17 @@ To cite our work,use the following BibTeX entry:
   year={2024},
   url={https://arxiv.org/abs/2411.10603}
 }
+```
+```bash
+@misc{githubMLLM2024,
+  author={Sonda Fourati},
+  title={{MLLM Applied to Autonomous Driving Across Various Weather Conditions}},
+  year={2024},
+  url={https://github.com/SondaFourati/MLLM-applied-to-autonomous-driving-across-various-weather-conditions/tree/main},
+  note={Accessed: 2024-11-10}
+}
+```
+
 
 ```
 
