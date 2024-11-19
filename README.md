@@ -137,6 +137,7 @@ python Model2.py
 ## 8.Citation
 To cite our work,use the following BibTeX entry:
 
+```bash
 @article{author2024,
   title={A Novel MLLM-based Approach for Autonomous Driving in Different Weather Conditions},
   author={Sonda Fourati, Wael Jaafar, Noura Baccar},
@@ -144,4 +145,5 @@ To cite our work,use the following BibTeX entry:
   year={2024},
   url={[https://link-to-article.com](https://arxiv.org/abs/2411.10603)}
 }
+```
 
