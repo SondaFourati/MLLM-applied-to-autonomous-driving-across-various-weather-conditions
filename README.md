@@ -8,8 +8,7 @@
 4. [Installation](#installation)
 5. [Project Structure](#project-structure)
 6. [Usage](#usage)
-7. [Results and Performance](#results-and-performance)
-8. [Acknowledgments](#acknowledgments)
+7. [Acknowledgments](#acknowledgments)
 8. [Citation](#Citation)
 
 
@@ -134,8 +133,8 @@ python Model2.py
 - Special thanks to **PJLab-ADG** for developing and maintaining [LimSim++](https://github.com/PJLab-ADG/LimSim), which has been instrumental in enabling advanced simulations for this project.
 - Thanks to the **CARLA** team for their powerful [CARLA simulator](https://carla.org/), which provided a realistic simulation environment essential for testing autonomous driving models.
 - Appreciation to the contributors of **SUMO** ([Simulation of Urban MObility](https://sumo.dlr.de/docs/)) for their valuable open-source tool that supports traffic simulation.
-- 
-## 7.Citation
+  
+## 8.Citation
 To cite our work,use the following BibTeX entry:
 
 @article{author2024,
