@@ -10,7 +10,7 @@
 6. [Usage](#usage)
 7. [Results and Performance](#results-and-performance)
 8. [Acknowledgments](#acknowledgments)
-
+8. [Citation](#Citation)
 
 
 
@@ -134,3 +134,15 @@ python Model2.py
 - Special thanks to **PJLab-ADG** for developing and maintaining [LimSim++](https://github.com/PJLab-ADG/LimSim), which has been instrumental in enabling advanced simulations for this project.
 - Thanks to the **CARLA** team for their powerful [CARLA simulator](https://carla.org/), which provided a realistic simulation environment essential for testing autonomous driving models.
 - Appreciation to the contributors of **SUMO** ([Simulation of Urban MObility](https://sumo.dlr.de/docs/)) for their valuable open-source tool that supports traffic simulation.
+- 
+## 7.Citation
+To cite our work,use the following BibTeX entry:
+
+@article{author2024,
+  title={A Novel MLLM-based Approach for Autonomous Driving in Different Weather Conditions},
+  author={Sonda Fourati, Wael Jaafar, Noura Baccar},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  url={[https://link-to-article.com](https://arxiv.org/abs/2411.10603)}
+}
+
