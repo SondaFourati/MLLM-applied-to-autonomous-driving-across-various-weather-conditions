@@ -156,6 +156,3 @@ To cite our work,use the following BibTeX entry:
 }
 ```
 
-
-```
-
