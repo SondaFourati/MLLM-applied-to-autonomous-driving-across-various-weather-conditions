@@ -138,12 +138,13 @@ python Model2.py
 To cite our work,use the following BibTeX entry:
 
 ```bash
-@article{author2024,
+@article{fourati2024,
   title={A Novel MLLM-based Approach for Autonomous Driving in Different Weather Conditions},
-  author={Sonda Fourati, Wael Jaafar, Noura Baccar},
+  author={Sonda Fourati and Wael Jaafar and Noura Baccar},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2024},
-  url={[https://link-to-article.com](https://arxiv.org/abs/2411.10603)}
+  url={https://arxiv.org/abs/2411.10603}
 }
+
 ```
 
