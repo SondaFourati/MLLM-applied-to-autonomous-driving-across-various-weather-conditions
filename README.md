@@ -135,8 +135,9 @@ python Model2.py
 - Appreciation to the contributors of **SUMO** ([Simulation of Urban MObility](https://sumo.dlr.de/docs/)) for their valuable open-source tool that supports traffic simulation.
   
 ## 8.Citation
-To cite our work,use the following BibTeX entry:
+To cite our work,use the following BibTeX entries:
 
+#### For the article published on arXiv:
 ```bash
 @article{fourati2024,
   title={A Novel MLLM-based Approach for Autonomous Driving in Different Weather Conditions},
@@ -146,6 +147,7 @@ To cite our work,use the following BibTeX entry:
   url={https://arxiv.org/abs/2411.10603}
 }
 ```
+#### For the GitHub repository:
 ```bash
 @misc{githubMLLM2024,
   author={Sonda Fourati},
