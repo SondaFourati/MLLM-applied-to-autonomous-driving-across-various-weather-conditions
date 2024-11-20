@@ -137,7 +137,7 @@ python Model2.py
 ## 8.Citation
 To cite our work,use the following BibTeX entries:
 
-#### For the article published on arXiv:
+#### For the article published on arXiv(currently under review):
 ```bash
 @article{fourati2024,
   title={A Novel MLLM-based Approach for Autonomous Driving in Different Weather Conditions},
